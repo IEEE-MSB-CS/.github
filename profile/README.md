@@ -1,17 +1,13 @@
 ## Hi there 👋
 We are **IEEE Menoufia Student Branch** Technical Team.
 
-The Team are :
+### Teams
+
+- <strong>Android Team</strong>: [MahmoudMabrok](https://www.github.com/MahmoudMabrok) [Hamza Gamal](https://github.com/hamza94max)
+
+- <strong>Web Team</strong>:
+  - Frontend Team:  [Mostafa Saeed](https://github.com/mostafa-hashhash) [Abdullah Khallaf](https://github.com/Abdullah-khallaf) <br>
+- Cyber Security Team: [Omar Shehate](https://github.com/OmarShehata11) [Mohamed AlFiky](https://github.com/orgs/IEEE-MSB-CS/people/mohamedyousri78)
 
 
 If you want to join the Team as a Leader or a Team Member, Send an Email to <a href="">Gmail</a>
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
