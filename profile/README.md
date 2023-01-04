@@ -1,4 +1,4 @@
-<h3 align="left">Hi there 👋</h3>
+<h3 align="center">Welcome to IEEE MSB 👋</h3>
 
 ![Untitled Design](https://user-images.githubusercontent.com/42917814/209821184-262adf8e-8f39-467f-a23e-311beb0e31c5.png)
 
